@@ -1,0 +1,9 @@
+/config/jdbc.properties
+/target/
+.DS_Store
+
+# ignore eclipse files
+# .project
+# .classpath
+# .settings
+# .tern-project
